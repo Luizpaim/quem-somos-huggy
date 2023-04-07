@@ -7,7 +7,7 @@ var $_Huggy = {
   defaultCountry: '+55',
   uuid: '7036a36e-abbe-479c-8895-bf9a6c29ab09',
   company: '341145',
-  startTrigger,
+  startTrigger
 }
 ;(function (i, s, o, g, r, a, m) {
   i[r] = { context: { id: '89584a06c43ef4f9194bb15b4d5e3acf' } }
