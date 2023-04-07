@@ -265,10 +265,10 @@ h1 {
     height: 480px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     img {
       width: 50px;
-      margin: 20px 0px 15px 0px;
+      margin: 60px 20px 15px 20px;
     }
   }
 
